@@ -4,6 +4,7 @@ En esta práctica se trabajó con HTML y CSS para construir una página web util
 
 ## Herramientas empleadas
 -CSS
+
 -HTML
 
 ## Paso a paso para su uso
