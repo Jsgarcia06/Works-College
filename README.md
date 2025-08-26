@@ -8,7 +8,7 @@ En esta práctica se trabajó con HTML y CSS para construir una página web util
 -HTML
 
 ## Paso a paso para su uso
-1. Clonar el repositorio : 'https://github.com/Jsgarcia06/Works-College.git'
+1. Clonar el repositorio : `https://github.com/Jsgarcia06/Works-College`
 2. Abre la carpeta del proyecto en tu editor de preferencia.
 3. Si deseas abrir directamente la pagina web, ejecuta el archivo `Tienda de Postres.html` para que se abra en tu navegador predeterminado.
 
