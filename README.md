@@ -14,4 +14,4 @@ En esta práctica se trabajó con HTML y CSS para construir una página web util
 
 ##Creador
 - **Juan Sebastián García Valderrama** -
-[Usuario]([https://github.com/gabs147?tab=overview&from=2025-07-01&to=2025-07-31](https://github.com/Jsgarcia06))
+[Usuario](https://github.com/Jsgarcia06?tab=overview&from=2025-07-01&to=2025-07-31)
